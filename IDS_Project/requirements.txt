@@ -1,0 +1,19 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
+flask
+
+# Optional (for reading/writing pcaps faster on some platforms)
+pcapy
+
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
+flask
+
+# Optional (for reading/writing pcaps faster on some platforms)
+pcapy
