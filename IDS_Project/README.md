@@ -60,7 +60,7 @@ Notes & permissions
 - Packet sniffing requires elevated privileges. Use the provided pcap demo if you cannot run sniffing locally.
 - This scaffold intentionally simulates firewall actions instead of changing OS firewall settings.
 
-If you want, I can now:
+TODO:
 - implement unit tests for network parsing and feature extraction,
 - add a small Flask UI to view alerts,
 - create Colab-ready notebooks with executable cells and a sample training run.
